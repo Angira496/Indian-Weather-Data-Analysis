@@ -1,0 +1,12 @@
+# Core packages
+streamlit
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Stats & Analysis
+statsmodels
