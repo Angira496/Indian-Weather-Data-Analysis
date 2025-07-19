@@ -8,7 +8,6 @@ A Streamlit web application for exploring and visualizing 10 years (2009–2019)
 - [Usage](#usage)
 - [Technologies & Libraries](#technologies--libraries)
 - [Authors](#authors)
-- [License](#license)
 
 ## Project Overview
 This project analyzes historical weather data for eight major Indian cities: Pune, Mumbai (Bombay), Delhi, Hyderabad, Jaipur, Kanpur, Nagpur, and Bengaluru. It provides insights into seasonal trends, regional climatic variations, and key weather parameters such as temperature, humidity, wind, precipitation, UV index, cloud cover, and air quality.
