@@ -37,7 +37,7 @@ page = st.sidebar.radio("Go to", ["Home", "Dataset", "Analysis", "Outcomes"])
 if page == "Home":
     st.title("🌦️ Indian Weather Data Analysis")
     st.markdown(
-        "###### A deep dive into 10 years of daily weather across 8 major Indian cities",
+        "###### A deep dive into 11 years of daily weather across 8 major Indian cities",
         unsafe_allow_html=True,
     )
 
