@@ -1,6 +1,11 @@
 # Indian Weather Data Analysis
 A Streamlit web application for exploring and visualizing 10 years (2009–2019) of daily weather data across eight major Indian cities. The app offers interactive pages for dataset preview, exploratory analysis, and key outcomes, all wrapped in a sleek dark theme. Built with Python and its libraries (NumPy, Pandas, Matplotlib, Seaborn, Plotly).
 
+
+## Preview
+[▶️ Live Demo : ](https://indian-weather-data-analysis-reekparna.streamlit.app/)
+
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
